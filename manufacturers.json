@@ -1,0 +1,94 @@
+{
+  "manufacturers": [
+    {
+      "name": "Puma",
+      "country": "Germany",
+      "souvenirs": [
+        {
+          "name": "Football ball",
+          "date": "2000-05-22",
+          "price": 500.0,
+          "manufacturer_id": 1,
+          "id": 1
+        },
+        {
+          "name": "Basketball ball",
+          "date": "2001-04-21",
+          "price": 400.0,
+          "manufacturer_id": 1,
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Adidas",
+      "country": "Germany",
+      "souvenirs": [
+        {
+          "name": "Football ball",
+          "date": "2012-01-02",
+          "price": 550.0,
+          "manufacturer_id": 2,
+          "id": 3
+        },
+        {
+          "name": "Brand T-short",
+          "date": "2005-05-28",
+          "price": 200.0,
+          "manufacturer_id": 2,
+          "id": 4
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Gucci",
+      "country": "Italy",
+      "souvenirs": [
+        {
+          "name": "White T-short",
+          "date": "2000-05-22",
+          "price": 1200.0,
+          "manufacturer_id": 4,
+          "id": 7
+        },
+        {
+          "name": "Crystal ball",
+          "date": "2000-05-22",
+          "price": 800.0,
+          "manufacturer_id": 4,
+          "id": 8
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Disney",
+      "country": "USA",
+      "souvenirs": [
+        {
+          "name": "Tea cup",
+          "date": "2000-05-22",
+          "price": 150.0,
+          "manufacturer_id": 5,
+          "id": 9
+        },
+        {
+          "name": "Coffee cup",
+          "date": "2000-05-22",
+          "price": 170.0,
+          "manufacturer_id": 5,
+          "id": 10
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Valentino",
+      "country": "China",
+      "souvenirs": [],
+      "id": 6
+    }
+  ]
+}
